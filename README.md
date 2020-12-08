@@ -1,4 +1,4 @@
-# Fairness Evaluation on Sprite Data
+# Counterfactual Fairness Replication
 Project repo for CS7290 
 
 Based on the paper: https://arxiv.org/pdf/1703.06856.pdf
@@ -6,7 +6,7 @@ Based on the paper: https://arxiv.org/pdf/1703.06856.pdf
 Team members: Gowtam Potluri, Oliver Penglase, Kai Wu, Mingfei Zhou
 
 ## Description
-Using the law school success example from the paper, we replicate our version of the simulated example to show the difference in a fair prediction of law school success vs. an unfair one. 
+Using the law school success example from the paper, we replicate our version of the simulated example to show the difference in a fair prediction of law school success vs. an unfair one using Pyro. 
 
 
 ## Deliverables 
