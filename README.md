@@ -3,7 +3,7 @@ Project repo for CS7290
 
 Based on the paper: https://arxiv.org/pdf/1703.06856.pdf
 
-Please follow the tutorial for a detialed explanation.
+Please follow the tutorial (Counterfactual Fairness Final.ipynb) for a detialed explanation.
 
 Team members: Gowtam Potluri, Oliver Penglase, Kai Wu, Mingfei Zhou
 
